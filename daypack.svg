@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Canvas daypack">
+  <rect width="640" height="480" fill="#e9f1ed"/>
+  <path d="M238 148c6-58 157-58 164 0" fill="none" stroke="#116149" stroke-width="24" stroke-linecap="round"/>
+  <rect x="190" y="128" width="260" height="278" rx="42" fill="#1d765b"/>
+  <rect x="226" y="186" width="188" height="92" rx="18" fill="#f8faf8" opacity=".92"/>
+  <rect x="232" y="306" width="176" height="70" rx="18" fill="#0c4637"/>
+  <path d="M190 242h260" stroke="#0c4637" stroke-width="16"/>
+  <circle cx="320" cy="342" r="9" fill="#d66d36"/>
+</svg>

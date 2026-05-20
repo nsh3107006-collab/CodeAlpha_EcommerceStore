@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Bluetooth speaker mini">
+  <rect width="640" height="480" fill="#eef3f6"/>
+  <rect x="172" y="148" width="296" height="188" rx="48" fill="#17211c"/>
+  <circle cx="264" cy="242" r="58" fill="#116149"/>
+  <circle cx="264" cy="242" r="28" fill="#e9f1ed"/>
+  <circle cx="380" cy="208" r="10" fill="#d66d36"/>
+  <circle cx="416" cy="208" r="10" fill="#d66d36"/>
+  <path d="M350 260h76" stroke="#e9f1ed" stroke-width="16" stroke-linecap="round"/>
+</svg>

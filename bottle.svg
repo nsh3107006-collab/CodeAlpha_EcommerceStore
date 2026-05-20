@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Trail water bottle">
+  <rect width="640" height="480" fill="#edf5ef"/>
+  <rect x="270" y="86" width="100" height="58" rx="12" fill="#17211c"/>
+  <rect x="250" y="132" width="140" height="272" rx="48" fill="#116149"/>
+  <path d="M252 226h136" stroke="#e9f1ed" stroke-width="18"/>
+  <path d="M284 102h72" stroke="#d66d36" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="320" cy="315" r="42" fill="#f8faf8" opacity=".9"/>
+</svg>

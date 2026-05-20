@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Linen throw blanket">
+  <rect width="640" height="480" fill="#f3eee7"/>
+  <rect x="168" y="104" width="304" height="276" rx="24" fill="#d8e7df"/>
+  <path d="M210 104v276M252 104v276M294 104v276M336 104v276M378 104v276M420 104v276" stroke="#116149" stroke-width="7" opacity=".55"/>
+  <path d="M168 154h304M168 204h304M168 254h304M168 304h304M168 354h304" stroke="#ffffff" stroke-width="7" opacity=".8"/>
+  <path d="M186 380v34M226 380v34M266 380v34M306 380v34M346 380v34M386 380v34M426 380v34" stroke="#d66d36" stroke-width="8" stroke-linecap="round"/>
+</svg>

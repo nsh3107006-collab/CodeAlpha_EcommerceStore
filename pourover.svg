@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Ceramic pour-over set">
+  <rect width="640" height="480" fill="#f3eee7"/>
+  <path d="M226 138h188l-36 142H262z" fill="#ffffff" stroke="#17211c" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M258 280h124l42 104H216z" fill="#cfe0d8" stroke="#17211c" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M248 174h144M262 214h116" stroke="#d66d36" stroke-width="12" stroke-linecap="round"/>
+  <path d="M424 318c62-4 62 62 4 66" fill="none" stroke="#17211c" stroke-width="14" stroke-linecap="round"/>
+</svg>
