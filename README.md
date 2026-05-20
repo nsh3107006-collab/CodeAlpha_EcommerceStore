@@ -1,4 +1,4 @@
-# CodeAlpha_EcommerceStore
+# EcommerceStore
 # Northline Market - Basic E-Commerce Site
 link: http://localhost:3000/
 
