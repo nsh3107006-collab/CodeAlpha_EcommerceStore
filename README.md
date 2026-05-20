@@ -1,5 +1,6 @@
 # CodeAlpha_EcommerceStore
 # Northline Market - Basic E-Commerce Site
+link: http://localhost:3000/
 
 A basic full-stack e-commerce website built with HTML, CSS, JavaScript, Node.js, and a SQLite database.
 
